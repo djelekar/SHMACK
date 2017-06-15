@@ -9,3 +9,5 @@ twitter4j.properties
 .gradle
 .nb-gradle
 .settings
+.idea
+out
